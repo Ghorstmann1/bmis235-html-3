@@ -66,3 +66,13 @@ nav img {
 a:hover {
     color: #69BE28;
 }
+
+
+h1 {
+    color: #002244;
+    font-size: 40px;
+}
+p {
+    line-height: 1.6;
+    margin-bottom: 18px;
+}
